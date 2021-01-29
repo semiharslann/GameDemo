@@ -11,7 +11,7 @@ namespace GameDemo
             if (gamer.GamerDateOfBirth == "1900.5.5" && gamer.GamerId == 1 && 
                 gamer.GamerFirstName == "Semih" && gamer.GamerLastName == "Arslan" 
                 && gamer.GamerNationalityId == "11111111111")
-            {
+            { 
                 return true;
             }
             else
